@@ -1,0 +1,2 @@
+# autoappium
+auto restart appium
